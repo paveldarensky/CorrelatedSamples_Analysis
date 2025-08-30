@@ -55,19 +55,6 @@ Analysis of **correlated samples** demonstrating generation, correlation calcula
 
 ---
 
-## 📌 How to run / Как запускать
-
-1. Install R and required packages (`stats`, `graphics`)  
-   Установите R и необходимые пакеты (`stats`, `graphics`)
-
-2. Set parameters (means, standard deviations, correlation coefficients) in the script  
-   Задайте параметры (средние, СКО, коэффициенты корреляции) в скрипте
-
-3. Run the script to generate samples, compute correlations, perform hypothesis tests, and plot results  
-   Запустите скрипт для генерации выборок, вычисления коэффициентов корреляции, проверки гипотез и построения графиков
-
----
-
 ## 📊 Output / Результаты
 
 - Scatterplots of X1-X2 and X1-X3  
